@@ -7,9 +7,6 @@ In this module we will consider communication within your team, and with your cl
 ### Related Unit/Course Learning Outcomes:
 O5. perform effectively as part of a multidisciplinary and multicultural team
 
-### Materials
-[Workshop lecture notes](Workshop-1-Communication.pdf)
-
 ## Implementation
 
 ### Class Agenda and Activities
@@ -30,4 +27,4 @@ Communication is assessed in each of the three deliverables for this unit.
 #### Links
 
 #### Lecturer 
-Rachel Cardell-Oliver 2023
+Dr Tingting Bi
